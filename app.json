@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Sim Open House Final",
+    "slug": "SimOpenHouseApp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "android": {
+      "package": "com.hy.SimOpenHouseApp",
+      "versionCode": 1
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SimLogo2.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
